@@ -1,9 +1,19 @@
-Template for the Read the Docs tutorial
-=======================================
+About Mediagraph
+=============
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
+Mediagraph is a unified API gateway for online media services. The aim is for Mediagraph to be a vendor-neutral toolset that includes the range of required parts to build a media platform, from a content sharing site to a chat service. 
 
-Read the tutorial here:
+**Currently supported API services and platforms:**
 
-https://docs.readthedocs.io/en/stable/tutorial/
+* X
+* Y
+* Z
+..
+
+**Quick links:**
+
+* `Mediagraph API docs <https://mediagraph.foundation>`_
+* `Mediagraph GitHub repo <https://github.com/mediagraph/mediagraph-prototype>`_
+* `Mediagraph Foundation Main Site <https://mediagraph.foundation>`_
+
+Mediagraph is a prototype under active development, so please help us out by sending us feedback at hi@mediagraph.foundation or by opening an issue on `our GitHub <https://github.com/mediagraph/mediagraph-prototype>`_.
